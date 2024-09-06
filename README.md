@@ -12,6 +12,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap3&logoColor=1572B6)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   <br/>
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
