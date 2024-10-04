@@ -18,7 +18,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/maurovera/"><img alt="LinkedIn" src="https://www.linkedin.com/in/lautaro-eduardo-eber-luna-91360b328/"></a>
+<a href="https://www.linkedin.com/in/lautaro-eduardo-eber-luna-91360b328/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lautaro%20Luna-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.youtube.com/@lauluna906"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-lau-blue?style=flat-square&logo=youtube"></a>
 <a href="lautaroluna906@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-lautaroluna906@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
