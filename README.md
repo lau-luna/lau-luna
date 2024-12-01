@@ -22,16 +22,16 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 
-### Contact Me
-<a href="https://www.linkedin.com/in/lautaro-eduardo-eber-luna-91360b328/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lautaro%20Luna-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.youtube.com/@lauluna906"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-lau-blue?style=flat-square&logo=youtube"></a>
-<a href="lautaroluna906@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-lautaroluna906@gmail.com-blue?style=flat-square&logo=gmail"></a>  
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=lau-luna&show_icons=true)
+## Contact Me
+<a href="https://www.linkedin.com/in/lautaro-eduardo-eber-luna-91360b328/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/@lauluna906"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="lautaroluna906@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=lau-luna&theme=darkhub)
-
+<br>
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=lau-luna&show_icons=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lau-luna&label=Profile%20views&color=0e75b6&style=flat" alt="lau-luna" /> </p>
