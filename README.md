@@ -2,7 +2,7 @@
 <h2>Fullstack developer student</h2>
 
 ### About Me
-- I am 18 years old and I am from Laboulaye, Córdoba, Argentina.
+- I am 19 years old and I am from Laboulaye, Córdoba, Argentina.
 - I'm currently studying in the programming speciality at I.P.E.T. y M. N° 257 "Dr. René Favaloro".
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with backend and server technologies.
