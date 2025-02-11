@@ -3,7 +3,8 @@
 
 ### About Me
 - I am 19 years old and I am from Laboulaye, Córdoba, Argentina.
-- I'm currently studying in the programming speciality at I.P.E.T. y M. N° 257 "Dr. René Favaloro".
+- I'm studying Computer Science at Universidad Nacional de Río Cuarto.
+- I'm a graduated Programmer Technician at I.P.E.T. y M. N° 257 "Dr. René Favaloro".
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with backend and server technologies.
 
