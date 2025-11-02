@@ -1,12 +1,10 @@
 <h1>Hi! I'm Lautaro Eduardo Eber Luna <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Fullstack developer student</h2>
+<h2>Computer Science student</h2>
 
 ### About Me
 - I am 19 years old and I am from Laboulaye, Córdoba, Argentina.
 - I'm studying Computer Science at Universidad Nacional de Río Cuarto.
 - I'm a graduated Programmer Technician at I.P.E.T. y M. N° 257 "Dr. René Favaloro".
-- I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- I enjoy working with backend and server technologies.
 
 ## 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
