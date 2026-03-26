@@ -2,9 +2,9 @@
 <h2>Computer Science student</h2>
 
 ### About Me
-- I am 19 years old and I am from Laboulaye, Córdoba, Argentina.
+- I am 20 years old and I am from Laboulaye, Córdoba, Argentina.
 - I'm studying Computer Science at Universidad Nacional de Río Cuarto.
-- I'm a graduated Programmer Technician at I.P.E.T. y M. N° 257 "Dr. René Favaloro".
+- I'm a Programmer Technician graduated at I.P.E.T. y M. N° 257 "Dr. René Favaloro" (Technical secondary school).
 
 ## 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
