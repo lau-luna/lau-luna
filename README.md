@@ -38,6 +38,8 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=lau-luna&theme=darkhub)
 <br>
-![Lau's GitHub stats](https://github-readme-stats.vercel.app/api?username=lau-luna&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lau-luna&layout=compact&theme=tokyonight)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lau-luna&label=Profile%20views&color=0e75b6&style=flat" alt="lau-luna" /> </p>
+
+<!-- contador bonito -->
+![](https://count.getloli.com/@lau-luna?theme=booru-jaypee)
